@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Android_On_Skill\HelloJNI\app\src\main\assets"/><source path="F:\Android_On_Skill\HelloJNI\app\build\generated\assets\shaders\all\debug"/></dataSet><dataSet config="all"><source path="F:\Android_On_Skill\HelloJNI\app\src\all\assets"/></dataSet><dataSet config="debug"><source path="F:\Android_On_Skill\HelloJNI\app\src\debug\assets"/></dataSet><dataSet config="allDebug"><source path="F:\Android_On_Skill\HelloJNI\app\src\allDebug\assets"/></dataSet></merger>
